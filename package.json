@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage:": "http://RicardoRien.github.io/TodoApp-React",
+  "homepage:": "http://ricardorien.github.io/todoapp-react",
   "dependencies": {
     "@emotion/styled": "^10.0.27",
     "@testing-library/jest-dom": "^4.2.4",
