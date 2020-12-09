@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import TodoList from './components/TodoList';
+import TodoList from './components/TodoList/TodoList';
 
 function App() {
   return (
@@ -13,4 +13,4 @@ function App() {
 export default App;
 
 //This app use:
-// npm install react-icons --save
+// npm install react-icons
